@@ -1,5 +1,6 @@
 import React from "react";
-// import '../Navigation/node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../../src/App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Footer = () => (
     <>
@@ -12,9 +13,6 @@ const Footer = () => (
                 <img alt="LinkedIn" className="footer-img" src={require("../assets/cover/linkedin-circle.png")} />
             </a>
 
-            {/* <a href="https://twitter.com/IPetrovicova" target="_blank" rel="noopener noreferrer"> */}
-                {/* <img alt="Twitter" className="footer-img" src={require("../assets/icons/twitter3.png")} /> */}
-            {/* </a> */}
         </div>
     </>
 );

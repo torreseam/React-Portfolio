@@ -1,5 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../../../src/App.css';
 
 
 const Resume = () => (
@@ -12,20 +13,19 @@ const Resume = () => (
 
         <div className="resume-main">
             <div>
-                <h4 className="">Skills</h4>
+                <h1 className="">Skills</h1>
             </div>
 
             <div>
                 <p>Develop best practice solutions by facilitating meetings with Technology and Business Leaders to develop needs and requirements. Consult with business managers to develop project scope, translate and understand business principles and technical requirements by developing solutions to existing problems/issues, compliance and adherence to principles
-Key on-site engineer and team member of Data Center Migration and decommissioning project team. Responsible for equipment installation, testing, troubleshooting of operating systems including hardware & software, provide technical support as needed, project management, change management requests, server moves and cutovers, physical removal of equipment and proper disposal of company assets.</p>
-            </div>
-
-            <div>
-                <h5 className="header-space">Install, test, and terminate data/telecommunications cabling, including Cat6e and Fiber media to United Airlines standards.
+                Key on-site engineer and team member of Data Center Migration and decommissioning project team. Responsible for equipment installation, testing, troubleshooting of operating systems including hardware & software, provide technical support as needed, project management, change management requests, server moves and cutovers, physical removal of equipment and proper disposal of company assets.
+                Install, test, and terminate data/telecommunications cabling, including Cat6e and Fiber media to United Airlines standards.
                 Install equipment cabinets to house network data equipment, and power circuit.
                 Monitor and properly address facility alarms such as: equipment alarms, overheating, circuit overloads, etc.
-                Establish and maintain written, verbal, and online communications channels with regional management to ensure they are always up to date for their respective facility.</h5>
+                Establish and maintain written, verbal, and online communications channels with regional management to ensure they are always up to date for their respective facility</p>
             </div>
+
+
 
             <div>
                 <h5 className="header-space">Technology and DataBase Skills </h5>
@@ -41,7 +41,7 @@ Key on-site engineer and team member of Data Center Migration and decommissionin
             </div>
 
             <div>
-                <h5 className="header-space">Development</h5>
+                <h5 className="header-space">Development Skills</h5>
             </div>
 
             <div>

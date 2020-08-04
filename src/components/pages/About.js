@@ -1,9 +1,8 @@
-// export default About;
 import React from "react";
 import coverImage from '../../assets/cover/cover-image-1.jpg';
 import userImage from '../../assets/cover/linkedin.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import '../../../src/App.css';
+import '../../../src/App.css';
 
 
 function About() {

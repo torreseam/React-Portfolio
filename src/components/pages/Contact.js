@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 import { validateEmail } from '../../utils/helpers';
-// import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../../../src/App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// /node_modules/bootstrap / dist / css / bootstrap.min.css'
-
 
 function Contact() {
 
@@ -32,9 +30,6 @@ function Contact() {
                 setErrorMessage('');
             }
         }
-
-
-
         //check for the message to be entered / required
         if (e.target.name === 'message') {
 
@@ -46,22 +41,18 @@ function Contact() {
             }
         }
 
-
         console.log('errorMessage', errorMessage);
 
         if (!errorMessage) {
             setFormState({ ...formState, [e.target.name]: e.target.value });
         }
 
-    }
-    // console.log(formState)
+    };
 
     function handleSubmit(e) {
         e.preventDefault();
         console.log(formState);
-    }
-
-
+    };
 
     return (
         <section className="">
