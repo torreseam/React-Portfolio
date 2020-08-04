@@ -24,7 +24,9 @@ The Food Festival application contains multiple webpacks such as file-loader, we
 
 React Portfolio Downloadable App
 
-![MainPage](.src/assets/cover/main.JPG)
+![MainPage](./src/assets/cover/main.JPG)
+
+
 
 
 
