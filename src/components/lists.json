@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Drink & Think",
+        "image": "https://raw.githubusercontent.com/torreseam/Drink-and-Think/master/assets/screenshots/mainpage.jpg",
+        "github": "https://github.com/torreseam/Drink-and-Think.git",
+        "deployedapp": "https://torreseam.github.io/Drink-and-Think/",
+        "description": "Trivia"
+    },
+    {
+        "id": 2,
+        "name": "Budget Tracker",
+        "image": "https://raw.githubusercontent.com/torreseam/Budget-Tracker/master/public/chromeDevtools.PNG",
+        "github": "https://github.com/torreseam/Budget-Tracker.git",
+        "deployedapp": "https://calm-headland-75460.herokuapp.com/",
+        "description": "Budget & Spending"
+    },
+    {
+        "id": 3,
+        "name": "Note Taker",
+        "image": "https://raw.githubusercontent.com/torreseam/Note-Taker/master/src/heroku-page.PNG",
+        "github": "https://github.com/torreseam/Note-Taker.git",
+        "deployedapp": "https://warm-caverns-62816.herokuapp.com/",
+        "description": "Note Taker"
+    },
+    {
+        "id": 4,
+        "name": "Grading Book",
+        "image": "https://raw.githubusercontent.com/torreseam/Teachers-Grading-Book/master/src/titlepage.jpg",
+        "github": "https://github.com/torreseam/Teachers-Grading-Book.git",
+        "deployedapp": "https://teachersgradingbook.herokuapp.com/",
+        "description": "Grading Book"
+    },
+    {
+        "id": 5,
+        "name": "Team Profile Generator",
+        "image": "https://raw.githubusercontent.com/torreseam/Team-Profile-Generator/master/src/Browserpg.PNG",
+        "github": "https://github.com/torreseam/Team-Profile-Generator.git",
+        "deployedapp": "https://github.com/torreseam/Team-Profile-Generator",
+        "description": "Team Profile Generator"
+    },
+    {
+        "id": 6,
+        "name": "Git It Done",
+        "image": "https://raw.githubusercontent.com/torreseam/git-it-done/master/assets/main.JPG",
+        "github": "https://torreseam.github.io/git-it-done/",
+        "deployedapp": "https://github.com/torreseam/git-it-done.git",
+        "description": "Git It Done"
+    }
+]
